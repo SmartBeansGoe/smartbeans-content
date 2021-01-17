@@ -1,0 +1,1 @@
+# smartbeans-content
