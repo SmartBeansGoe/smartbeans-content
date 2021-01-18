@@ -1,0 +1,1 @@
+# Updates only the svg-string in all json files.

@@ -1,0 +1,1 @@
+# Generates the initial json file for all outfits that don't have one yet.
