@@ -1,0 +1,38 @@
+[
+  {
+    "id": "etwas_von_allem-shirts",
+    "name": "change-me",
+    "outfit-id": "etwas_von_allem",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "etwas_von_allem-pants",
+    "name": "change-me",
+    "outfit-id": "etwas_von_allem",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "etwas_von_allem-hats",
+    "name": "change-me",
+    "outfit-id": "etwas_von_allem",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]
