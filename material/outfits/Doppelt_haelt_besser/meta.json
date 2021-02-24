@@ -1,0 +1,38 @@
+[
+  {
+    "id": "doppelt_haelt_besser-shirts",
+    "name": "change-me",
+    "outfit-id": "doppelt_haelt_besser",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "doppelt_haelt_besser-pants",
+    "name": "change-me",
+    "outfit-id": "doppelt_haelt_besser",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "doppelt_haelt_besser-hats",
+    "name": "change-me",
+    "outfit-id": "doppelt_haelt_besser",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

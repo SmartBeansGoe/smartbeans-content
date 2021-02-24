@@ -1,0 +1,38 @@
+[
+  {
+    "id": "girlie_shirt_brown-shirts",
+    "name": "change-me",
+    "outfit-id": "girlie_shirt_brown",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "girlie_shirt_brown-pants",
+    "name": "change-me",
+    "outfit-id": "girlie_shirt_brown",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "girlie_shirt_brown-hats",
+    "name": "change-me",
+    "outfit-id": "girlie_shirt_brown",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

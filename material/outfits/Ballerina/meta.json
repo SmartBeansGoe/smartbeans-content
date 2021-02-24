@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ballerina-shirts",
+    "name": "change-me",
+    "outfit-id": "ballerina",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "ballerina-pants",
+    "name": "change-me",
+    "outfit-id": "ballerina",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "ballerina-hats",
+    "name": "change-me",
+    "outfit-id": "ballerina",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "business-male-shirts",
+    "name": "change-me",
+    "outfit-id": "business-male",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "business-male-pants",
+    "name": "change-me",
+    "outfit-id": "business-male",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "business-male-hats",
+    "name": "change-me",
+    "outfit-id": "business-male",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "girly_chillaxing-shirts",
+    "name": "change-me",
+    "outfit-id": "girly_chillaxing",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "girly_chillaxing-pants",
+    "name": "change-me",
+    "outfit-id": "girly_chillaxing",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "girly_chillaxing-hats",
+    "name": "change-me",
+    "outfit-id": "girly_chillaxing",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

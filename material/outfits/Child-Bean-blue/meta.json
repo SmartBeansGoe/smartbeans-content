@@ -1,0 +1,38 @@
+[
+  {
+    "id": "child-bean-blue-shirts",
+    "name": "change-me",
+    "outfit-id": "child-bean-blue",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "child-bean-blue-pants",
+    "name": "change-me",
+    "outfit-id": "child-bean-blue",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "child-bean-blue-hats",
+    "name": "change-me",
+    "outfit-id": "child-bean-blue",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

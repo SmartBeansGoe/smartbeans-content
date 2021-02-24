@@ -1,0 +1,38 @@
+[
+  {
+    "id": "roller_blades-shirts",
+    "name": "change-me",
+    "outfit-id": "roller_blades",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "roller_blades-pants",
+    "name": "change-me",
+    "outfit-id": "roller_blades",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "roller_blades-hats",
+    "name": "change-me",
+    "outfit-id": "roller_blades",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

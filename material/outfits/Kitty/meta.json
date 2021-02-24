@@ -1,0 +1,38 @@
+[
+  {
+    "id": "kitty-shirts",
+    "name": "change-me",
+    "outfit-id": "kitty",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "kitty-pants",
+    "name": "change-me",
+    "outfit-id": "kitty",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "kitty-hats",
+    "name": "change-me",
+    "outfit-id": "kitty",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

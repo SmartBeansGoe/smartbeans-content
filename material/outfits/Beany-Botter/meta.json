@@ -1,0 +1,38 @@
+[
+  {
+    "id": "beany-botter-shirts",
+    "name": "change-me",
+    "outfit-id": "beany-botter",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "beany-botter-pants",
+    "name": "change-me",
+    "outfit-id": "beany-botter",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "beany-botter-hats",
+    "name": "change-me",
+    "outfit-id": "beany-botter",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

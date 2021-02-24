@@ -1,0 +1,38 @@
+[
+  {
+    "id": "french-bean-shirts",
+    "name": "change-me",
+    "outfit-id": "french-bean",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "french-bean-pants",
+    "name": "change-me",
+    "outfit-id": "french-bean",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "french-bean-hats",
+    "name": "change-me",
+    "outfit-id": "french-bean",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

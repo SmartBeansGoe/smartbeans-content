@@ -1,0 +1,38 @@
+[
+  {
+    "id": "new-york-city-basic-shirts",
+    "name": "change-me",
+    "outfit-id": "new-york-city-basic",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "new-york-city-basic-pants",
+    "name": "change-me",
+    "outfit-id": "new-york-city-basic",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "new-york-city-basic-hats",
+    "name": "change-me",
+    "outfit-id": "new-york-city-basic",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

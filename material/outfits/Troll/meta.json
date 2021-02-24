@@ -1,0 +1,38 @@
+[
+  {
+    "id": "troll-shirts",
+    "name": "change-me",
+    "outfit-id": "troll",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "troll-pants",
+    "name": "change-me",
+    "outfit-id": "troll",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "troll-hats",
+    "name": "change-me",
+    "outfit-id": "troll",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

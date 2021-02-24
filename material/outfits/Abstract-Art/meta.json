@@ -1,0 +1,38 @@
+[
+  {
+    "id": "abstract-art-shirts",
+    "name": "change-me",
+    "outfit-id": "abstract-art",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "abstract-art-pants",
+    "name": "change-me",
+    "outfit-id": "abstract-art",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "abstract-art-hats",
+    "name": "change-me",
+    "outfit-id": "abstract-art",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

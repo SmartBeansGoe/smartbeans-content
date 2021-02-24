@@ -46,7 +46,7 @@ The folder structure is as follows:
 2. During the creation it is important that the body is not changed, so that all assets fit later. It is best to embed the body directly. Then you can choose the appropriate layer for each asset and create it. It is important that for example only the shirt is on the layer "Shirt" and that there are no other assets on this layer. The renaming of the layers should not be done, because then they will not be taken into account. The same applies to new layers. Layers that do not contain anything will be ignored. The layers can be reordered.
 
 3. Save the vector graphic in `material/outfits/<name-of-your-choice>/original.svg` as SVG (Inkscape-SVG). **Make sure that the assets are in its layer.**
-4. Run the script `src/generate-outfits-json.py`. (***Not implemented yet, for now skip the steps 4 and 5***)
+4. Run the script `src/generate-outfits-json.py`.
 ```
 python src/generate-outfits-json.py
 ```
@@ -58,11 +58,11 @@ Here an example of an generated `meta.json` file:
     {
         "id": "granny-smith-pants",
         "name": <string>,
+        "outfit-id": "granny-smith",
         "category": "pants",
         "precondition": {
             "task-id": <int or null>,
             "achievement-id": <string or null>,
-            "operator": <"and" or "or">
         },
         "attributes": [],
         "svg": "<g>...</g>"
@@ -70,11 +70,11 @@ Here an example of an generated `meta.json` file:
     {
         "id": "granny-smith-hat",
         "name": <string>,
+        "outfit-id": "granny-smith",
         "category": "hats",
         "precondition": {
             "task-id": <int or null>,
             "achievement-id": <string or null>,
-            "operator": <"and" or "or">
         },
         "attributes": [],
         "svg": "<g>...</g>"
@@ -82,17 +82,21 @@ Here an example of an generated `meta.json` file:
     {
         "id": "granny-smith-shirt",
         "name": <string>,
+        "outfit-id": "granny-smith",
         "category": "shirts",
         "precondition": {
             "task-id": <int or null>,
             "achievement-id": <string or null>,
-            "operator": <"and" or "or">
         },
         "attributes": [],
         "svg": "<g>...</g>"
     }
 ]
 ```
+Attributes for:
+- pants: "on-top"
+- shirts: "no-pants"
+
 6. Make a pull request.
 
 ## Updating an existing outfit
