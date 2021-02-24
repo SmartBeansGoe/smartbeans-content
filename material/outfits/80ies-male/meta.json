@@ -1,0 +1,38 @@
+[
+  {
+    "id": "80ies-male-shirts",
+    "name": "change-me",
+    "outfit-id": "80ies-male",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "80ies-male-pants",
+    "name": "change-me",
+    "outfit-id": "80ies-male",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "80ies-male-hats",
+    "name": "change-me",
+    "outfit-id": "80ies-male",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

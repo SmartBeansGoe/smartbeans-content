@@ -1,0 +1,38 @@
+[
+  {
+    "id": "gardener-shirts",
+    "name": "change-me",
+    "outfit-id": "gardener",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "gardener-pants",
+    "name": "change-me",
+    "outfit-id": "gardener",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "gardener-hats",
+    "name": "change-me",
+    "outfit-id": "gardener",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

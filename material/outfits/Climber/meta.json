@@ -1,0 +1,38 @@
+[
+  {
+    "id": "climber-shirts",
+    "name": "change-me",
+    "outfit-id": "climber",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "climber-pants",
+    "name": "change-me",
+    "outfit-id": "climber",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "climber-hats",
+    "name": "change-me",
+    "outfit-id": "climber",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

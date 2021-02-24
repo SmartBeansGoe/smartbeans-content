@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fabian_beanz-shirts",
+    "name": "change-me",
+    "outfit-id": "fabian_beanz",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "fabian_beanz-pants",
+    "name": "change-me",
+    "outfit-id": "fabian_beanz",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "fabian_beanz-hats",
+    "name": "change-me",
+    "outfit-id": "fabian_beanz",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

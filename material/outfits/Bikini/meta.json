@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bikini-shirts",
+    "name": "change-me",
+    "outfit-id": "bikini",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "bikini-pants",
+    "name": "change-me",
+    "outfit-id": "bikini",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "bikini-hats",
+    "name": "change-me",
+    "outfit-id": "bikini",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

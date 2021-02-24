@@ -1,0 +1,38 @@
+[
+  {
+    "id": "debug-informatiker-shirts",
+    "name": "change-me",
+    "outfit-id": "debug-informatiker",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "debug-informatiker-pants",
+    "name": "change-me",
+    "outfit-id": "debug-informatiker",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "debug-informatiker-hats",
+    "name": "change-me",
+    "outfit-id": "debug-informatiker",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

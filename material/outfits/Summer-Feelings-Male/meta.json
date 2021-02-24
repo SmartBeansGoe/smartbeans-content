@@ -1,0 +1,38 @@
+[
+  {
+    "id": "summer-feelings-male-shirts",
+    "name": "change-me",
+    "outfit-id": "summer-feelings-male",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "summer-feelings-male-pants",
+    "name": "change-me",
+    "outfit-id": "summer-feelings-male",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "summer-feelings-male-hats",
+    "name": "change-me",
+    "outfit-id": "summer-feelings-male",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "officer-bean-shirts",
+    "name": "change-me",
+    "outfit-id": "officer-bean",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "officer-bean-pants",
+    "name": "change-me",
+    "outfit-id": "officer-bean",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "officer-bean-hats",
+    "name": "change-me",
+    "outfit-id": "officer-bean",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

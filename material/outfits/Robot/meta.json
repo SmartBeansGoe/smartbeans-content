@@ -1,0 +1,38 @@
+[
+  {
+    "id": "robot-shirts",
+    "name": "change-me",
+    "outfit-id": "robot",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "robot-pants",
+    "name": "change-me",
+    "outfit-id": "robot",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "robot-hats",
+    "name": "change-me",
+    "outfit-id": "robot",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

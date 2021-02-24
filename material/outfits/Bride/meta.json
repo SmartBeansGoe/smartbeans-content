@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bride-shirts",
+    "name": "change-me",
+    "outfit-id": "bride",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "bride-pants",
+    "name": "change-me",
+    "outfit-id": "bride",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "bride-hats",
+    "name": "change-me",
+    "outfit-id": "bride",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

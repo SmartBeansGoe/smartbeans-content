@@ -1,0 +1,38 @@
+[
+  {
+    "id": "surfer-bean-shirts",
+    "name": "change-me",
+    "outfit-id": "surfer-bean",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "surfer-bean-pants",
+    "name": "change-me",
+    "outfit-id": "surfer-bean",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "surfer-bean-hats",
+    "name": "change-me",
+    "outfit-id": "surfer-bean",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

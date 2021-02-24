@@ -1,0 +1,38 @@
+[
+  {
+    "id": "maximiert-shirts",
+    "name": "change-me",
+    "outfit-id": "maximiert",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "maximiert-pants",
+    "name": "change-me",
+    "outfit-id": "maximiert",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "maximiert-hats",
+    "name": "change-me",
+    "outfit-id": "maximiert",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e-girl-shirts",
+    "name": "change-me",
+    "outfit-id": "e-girl",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "e-girl-pants",
+    "name": "change-me",
+    "outfit-id": "e-girl",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "e-girl-hats",
+    "name": "change-me",
+    "outfit-id": "e-girl",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

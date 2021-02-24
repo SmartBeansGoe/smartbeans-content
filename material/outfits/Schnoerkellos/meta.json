@@ -1,0 +1,38 @@
+[
+  {
+    "id": "schnoerkellos-shirts",
+    "name": "change-me",
+    "outfit-id": "schnoerkellos",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "schnoerkellos-pants",
+    "name": "change-me",
+    "outfit-id": "schnoerkellos",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "schnoerkellos-hats",
+    "name": "change-me",
+    "outfit-id": "schnoerkellos",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

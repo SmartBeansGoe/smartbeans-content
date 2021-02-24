@@ -1,0 +1,38 @@
+[
+  {
+    "id": "summer-feelings-female-shirts",
+    "name": "change-me",
+    "outfit-id": "summer-feelings-female",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "summer-feelings-female-pants",
+    "name": "change-me",
+    "outfit-id": "summer-feelings-female",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "summer-feelings-female-hats",
+    "name": "change-me",
+    "outfit-id": "summer-feelings-female",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "das_doppelte_boehnchen-shirts",
+    "name": "change-me",
+    "outfit-id": "das_doppelte_boehnchen",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "das_doppelte_boehnchen-pants",
+    "name": "change-me",
+    "outfit-id": "das_doppelte_boehnchen",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "das_doppelte_boehnchen-hats",
+    "name": "change-me",
+    "outfit-id": "das_doppelte_boehnchen",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

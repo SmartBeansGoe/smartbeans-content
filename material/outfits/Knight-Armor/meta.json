@@ -1,0 +1,38 @@
+[
+  {
+    "id": "knight-armor-shirts",
+    "name": "change-me",
+    "outfit-id": "knight-armor",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "knight-armor-pants",
+    "name": "change-me",
+    "outfit-id": "knight-armor",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "knight-armor-hats",
+    "name": "change-me",
+    "outfit-id": "knight-armor",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "granny-smith-shirts",
+    "name": "change-me",
+    "outfit-id": "granny-smith",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "granny-smith-pants",
+    "name": "change-me",
+    "outfit-id": "granny-smith",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "granny-smith-hats",
+    "name": "change-me",
+    "outfit-id": "granny-smith",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]

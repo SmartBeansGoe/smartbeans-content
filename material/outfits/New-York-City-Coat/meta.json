@@ -1,0 +1,38 @@
+[
+  {
+    "id": "new-york-city-coat-shirts",
+    "name": "change-me",
+    "outfit-id": "new-york-city-coat",
+    "category": "shirts",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "new-york-city-coat-pants",
+    "name": "change-me",
+    "outfit-id": "new-york-city-coat",
+    "category": "pants",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  },
+  {
+    "id": "new-york-city-coat-hats",
+    "name": "change-me",
+    "outfit-id": "new-york-city-coat",
+    "category": "hats",
+    "precondition": {
+      "task-id": null,
+      "achievement-id": null
+    },
+    "attributes": [],
+    "svg": ""
+  }
+]
