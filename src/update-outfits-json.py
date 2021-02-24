@@ -16,8 +16,19 @@ def extract_layers(path):
     with open(f'{path}/original.svg', 'rb') as src_file:
         my_xml_file = src_file.read()
         root = etree.fromstring(my_xml_file)
+        defs = ""
         for attribute in root:
             attrib = dict(attribute.attrib)
+            print(attribute.tag)
+            if attribute.tag == "{http://www.w3.org/2000/svg}defs":
+                defs = attribute
+                defs = str(etree.tostring(attribute)).replace(r"\n", "")
+                defs = re.sub('> +<', '><', defs)
+                defs = re.sub('<image*/>', '', defs)
+                defs = defs[2:-1]
+                defs = re.sub("\"", "\'", defs)
+
+                continue
             if '{http://www.inkscape.org/namespaces/inkscape}label' in attrib.keys():
                 category = attrib['{http://www.inkscape.org/namespaces/inkscape}label']
                 # Skip body and face
@@ -31,7 +42,7 @@ def extract_layers(path):
                     svg = re.sub('> +<', '><', svg)
                     svg = svg[2:-1]
                     svg = re.sub("\"", "\'", svg)
-                    layers.append((category, svg))
+                    layers.append((category, f'{defs}{svg}'))
     return layers
 
 
