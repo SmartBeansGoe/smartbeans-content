@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="badge.svg.2021_02_23_17_44_17.0.svg"
+   sodipodi:docname="original.svg"
    id="svg8"
    version="1.1"
    viewBox="0 0 68.430718 87.936012"
@@ -288,9 +288,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="86.857912"
-     inkscape:cx="-300.06547"
-     inkscape:zoom="0.77361166"
+     inkscape:cy="220.09066"
+     inkscape:cx="91.769544"
+     inkscape:zoom="3.0944466"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -715,7 +715,7 @@
            sodipodi:nodetypes="ccc" />
       </g>
       <rect
-         style="fill:url(#linearGradient1104);fill-rule:evenodd;stroke:#201919;stroke-width:0.6106;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#403233;fill-rule:evenodd;stroke:#201919;stroke-width:0.6106;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
          id="rect1114"
          width="36.766129"
          height="19.939419"
