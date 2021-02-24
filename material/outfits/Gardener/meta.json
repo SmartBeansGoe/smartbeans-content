@@ -5,7 +5,7 @@
     "outfit-id": "gardener",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 55,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "gardener",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 55,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "gardener",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 55,
       "achievement-id": null
     },
     "attributes": [],

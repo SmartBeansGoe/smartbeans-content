@@ -5,7 +5,7 @@
     "outfit-id": "summer-feelings-female",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 46,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "summer-feelings-female",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 46,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "summer-feelings-female",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 46,
       "achievement-id": null
     },
     "attributes": [],

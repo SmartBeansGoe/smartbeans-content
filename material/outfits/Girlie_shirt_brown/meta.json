@@ -5,7 +5,7 @@
     "outfit-id": "girlie_shirt_brown",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 69,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "girlie_shirt_brown",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 69,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "girlie_shirt_brown",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 69,
       "achievement-id": null
     },
     "attributes": [],

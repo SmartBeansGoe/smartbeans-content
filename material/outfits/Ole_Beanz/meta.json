@@ -5,7 +5,7 @@
     "outfit-id": "ole_beanz",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 82,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "ole_beanz",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 82,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "ole_beanz",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 82,
       "achievement-id": null
     },
     "attributes": [],
