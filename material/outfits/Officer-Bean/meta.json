@@ -5,7 +5,7 @@
     "outfit-id": "officer-bean",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 58,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "officer-bean",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 58,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "officer-bean",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 58,
       "achievement-id": null
     },
     "attributes": [],

@@ -5,7 +5,7 @@
     "outfit-id": "knight-armor",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 78,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "knight-armor",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 78,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "knight-armor",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 78,
       "achievement-id": null
     },
     "attributes": [],
