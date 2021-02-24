@@ -37,6 +37,9 @@ def extract_layers(path):
 
 def add_svg_to_json(path, category, svg):
     meta = None
+    if not os.path.exists(f"{path}/meta.json"):
+        print(f"ERR: Meta JSON file not found for \"{path}\"")
+        return
     with open(f"{path}/meta.json", "r") as fp:
         meta = json.load(fp)
         match = [(i, x) for (i, x) in enumerate(
