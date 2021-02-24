@@ -58,11 +58,11 @@ Here an example of an generated `meta.json` file:
     {
         "id": "granny-smith-pants",
         "name": <string>,
+        "outfit-id": "granny-smith",
         "category": "pants",
         "precondition": {
             "task-id": <int or null>,
             "achievement-id": <string or null>,
-            "operator": <"and" or "or">
         },
         "attributes": [],
         "svg": "<g>...</g>"
@@ -70,11 +70,11 @@ Here an example of an generated `meta.json` file:
     {
         "id": "granny-smith-hat",
         "name": <string>,
+        "outfit-id": "granny-smith",
         "category": "hats",
         "precondition": {
             "task-id": <int or null>,
             "achievement-id": <string or null>,
-            "operator": <"and" or "or">
         },
         "attributes": [],
         "svg": "<g>...</g>"
@@ -82,11 +82,11 @@ Here an example of an generated `meta.json` file:
     {
         "id": "granny-smith-shirt",
         "name": <string>,
+        "outfit-id": "granny-smith",
         "category": "shirts",
         "precondition": {
             "task-id": <int or null>,
             "achievement-id": <string or null>,
-            "operator": <"and" or "or">
         },
         "attributes": [],
         "svg": "<g>...</g>"
