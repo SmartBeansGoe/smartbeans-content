@@ -94,8 +94,8 @@ Here an example of an generated `meta.json` file:
 ]
 ```
 Attributes for:
-     - pants: "on-top"
-     - shirts: "no-pants"
+- pants: "on-top"
+- shirts: "no-pants"
 
 6. Make a pull request.
 
