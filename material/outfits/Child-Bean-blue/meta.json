@@ -6,7 +6,7 @@
     "category": "shirts",
     "precondition": {
       "task-id": null,
-      "achievement-id": null
+      "achievement-id": 6
     },
     "attributes": [],
     "svg": ""
@@ -18,7 +18,7 @@
     "category": "pants",
     "precondition": {
       "task-id": null,
-      "achievement-id": null
+      "achievement-id": 6
     },
     "attributes": [],
     "svg": ""
@@ -30,7 +30,7 @@
     "category": "hats",
     "precondition": {
       "task-id": null,
-      "achievement-id": null
+      "achievement-id": 6
     },
     "attributes": [],
     "svg": ""

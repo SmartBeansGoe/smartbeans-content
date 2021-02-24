@@ -5,7 +5,7 @@
     "outfit-id": "debug-informatiker",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 52,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "debug-informatiker",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 52,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "debug-informatiker",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 52,
       "achievement-id": null
     },
     "attributes": [],

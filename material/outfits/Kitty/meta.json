@@ -5,7 +5,7 @@
     "outfit-id": "kitty",
     "category": "shirts",
     "precondition": {
-      "task-id": null,
+      "task-id": 83,
       "achievement-id": null
     },
     "attributes": [],
@@ -17,7 +17,7 @@
     "outfit-id": "kitty",
     "category": "pants",
     "precondition": {
-      "task-id": null,
+      "task-id": 83,
       "achievement-id": null
     },
     "attributes": [],
@@ -29,7 +29,7 @@
     "outfit-id": "kitty",
     "category": "hats",
     "precondition": {
-      "task-id": null,
+      "task-id": 83,
       "achievement-id": null
     },
     "attributes": [],
