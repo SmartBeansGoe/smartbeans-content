@@ -62,7 +62,7 @@ Here an example of an generated `meta.json` file:
         "category": "pants",
         "precondition": {
             "task-id": <int or null>,
-            "achievement-id": <string or null>,
+            "achievement-id": <int or null>,
         },
         "attributes": [],
         "svg": "<g>...</g>"
@@ -74,7 +74,7 @@ Here an example of an generated `meta.json` file:
         "category": "hats",
         "precondition": {
             "task-id": <int or null>,
-            "achievement-id": <string or null>,
+            "achievement-id": <int or null>,
         },
         "attributes": [],
         "svg": "<g>...</g>"
@@ -86,7 +86,7 @@ Here an example of an generated `meta.json` file:
         "category": "shirts",
         "precondition": {
             "task-id": <int or null>,
-            "achievement-id": <string or null>,
+            "achievement-id": <int or null>,
         },
         "attributes": [],
         "svg": "<g>...</g>"
