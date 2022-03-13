@@ -3,9 +3,9 @@ import os
 import json
 
 PATH = "material/outfits"
-SHIRTS = 'shirts'
+SHIRTS = 'shirt'
 PANTS = 'pants'
-HATS = 'hats'
+HATS = 'hat'
 
 
 def sample_json(outfit_name_id, category):
@@ -13,13 +13,10 @@ def sample_json(outfit_name_id, category):
     return {
         "id": id,
         "name": "change-me",
-        "outfit-id": outfit_name_id,
-        "category": category,
-        "precondition": {
-            "task-id": None,
-            "achievement-id": None,
-        },
-        "attributes": [],
+        "outfitId": outfit_name_id,
+        "type": category,
+        "svgPath": f"{id}.svg",
+        "details": {},
         "svg": ""}
 
 

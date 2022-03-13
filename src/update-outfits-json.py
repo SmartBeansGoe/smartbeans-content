@@ -6,9 +6,9 @@ import json
 import os
 
 PATH = "material/outfits"
-SHIRTS = 'shirts'
+SHIRTS = 'shirt'
 PANTS = 'pants'
-HATS = 'hats'
+HATS = 'hat'
 
 
 def extract_layers(path):
@@ -54,7 +54,7 @@ def add_svg_to_json(path, category, svg):
     with open(f"{path}/meta.json", "r") as fp:
         meta = json.load(fp)
         match = [(i, x) for (i, x) in enumerate(
-            meta) if x["category"] == category]
+            meta) if x["type"] == category]
         meta[match[0][0]]["svg"] = svg
 
     with open(f"{path}/meta.json", "w") as fp:

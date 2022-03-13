@@ -1,40 +1,29 @@
 [
   {
-    "id": "etwas_von_allem-shirts",
+    "id": "etwas_von_allem-shirt",
     "name": "change-me",
-    "outfit-id": "etwas_von_allem",
-    "category": "shirts",
-    "precondition": {
-      "task-id": null,
-      "achievement-id": 19
-    },
-    "attributes": [
-      "no-pants"
-    ],
+    "outfitId": "etwas_von_allem",
+    "type": "shirt",
+    "svgPath": "etwas_von_allem-shirt.svg",
+    "details": {},
     "svg": "<defs xmlns='http://www.w3.org/2000/svg' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://creativecommons.org/ns#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' id='defs2'/>  <g xmlns='http://www.w3.org/2000/svg' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://creativecommons.org/ns#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' inkscape:groupmode='layer' id='layer2' inkscape:label='Shirt' style='display:inline' transform='translate(-38.136244,-44.878254)'><g id='g978' style='display:inline'><path style='display:inline;fill:#be747c;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' d='m 97.932106,95.281375 5.149474,9.723435 5.14948,9.72344' id='path897-6' sodipodi:nodetypes='ccc'/><path sodipodi:nodetypes='ccc' id='path72-6' d='m 55.97578,95.281375 -5.149454,9.723435 -5.149454,9.72344' style='display:inline;fill:#be747c;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/><path style='display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' d='m 83.570994,131.1211 v 18.26757' id='path905-7'/><path style='display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' d='m 70.40808,131.1211 v 18.26757' id='path905-6'/><path sodipodi:nodetypes='ccc' id='path961' d='m 97.932103,115.83351 7.927607,8.41974 0.51927,9.30734' style='display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/><path style='display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' d='m 55.975777,115.83351 -4.752608,6.83224 -0.916144,9.30734' id='path963' sodipodi:nodetypes='ccc'/><path style='display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' d='m 97.932103,95.281375 5.546357,-10.63026 6.73697,-4.980156' id='path965' sodipodi:nodetypes='ccc'/><path sodipodi:nodetypes='ccc' id='path967' d='M 55.44661,95.281375 49.90025,84.651115 42.766403,80.597001' style='display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1'/><path id='path1031-6' style='display:inline;fill:#241f31;stroke:#000000;stroke-width:7.935;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1' d='m 147.37109,23.964844 c -14.12457,-0.06211 -28.26541,3.55771 -40.94531,10.865234 C 81.066368,49.444793 65.426004,76.57712 65.425781,105.95508 v 142.58203 c -4.76e-4,29.12228 15.369345,56.05943 40.380859,70.76758 25.23152,14.83759 56.43511,14.97638 81.79492,0.36133 25.35999,-14.61502 41.00042,-41.74835 41,-71.12696 V 105.95508 h -0.4082 C 228.2784,76.91713 213.07296,50.000072 188.21875,35.189453 175.60298,27.770688 161.49567,24.026959 147.37109,23.964844 Z M 146.71289,69 a 48.500001,49.875001 0 0 1 0.01,0 48.500001,49.875001 0 0 1 48.5,49.875 48.500001,49.875001 0 0 1 -48.5,49.875 A 48.500001,49.875001 0 0 1 98.222656,118.875 48.500001,49.875001 0 0 1 146.71289,69 Z' transform='matrix(0.26458333,0,0,0.26458333,38.136244,44.878254)'/></g></g>  "
   },
   {
     "id": "etwas_von_allem-pants",
     "name": "change-me",
-    "outfit-id": "etwas_von_allem",
-    "category": "pants",
-    "precondition": {
-      "task-id": null,
-      "achievement-id": 19
-    },
-    "attributes": [],
+    "outfitId": "etwas_von_allem",
+    "type": "pants",
+    "svgPath": "etwas_von_allem-pants.svg",
+    "details": {},
     "svg": ""
   },
   {
-    "id": "etwas_von_allem-hats",
+    "id": "etwas_von_allem-hat",
     "name": "change-me",
-    "outfit-id": "etwas_von_allem",
-    "category": "hats",
-    "precondition": {
-      "task-id": null,
-      "achievement-id": 19
-    },
-    "attributes": [],
+    "outfitId": "etwas_von_allem",
+    "type": "hat",
+    "svgPath": "etwas_von_allem-hat.svg",
+    "details": {},
     "svg": ""
   }
 ]
