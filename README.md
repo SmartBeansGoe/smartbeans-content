@@ -34,25 +34,28 @@ The folder structure is as follows:
      |__ generate-outfits-json.py
      |__ generate-achievements-json.py
 ```
+
 ## Creating a new outfit
 
 1. Copy the `material/outfits/template.svg` file. In there are the following layers:
-    - Body *(do not edit)*
-    - **Pants**
-    - **Shirt**
-    - **Hat**
-    - Face *(is not tracked for now)*
-    - **Shoes**
+   - Body _(do not edit)_
+   - **Pants**
+   - **Shirt**
+   - **Hat**
+   - Face _(is not tracked for now)_
+   - **Shoes**
 2. During the creation it is important that the body is not changed, so that all assets fit later. It is best to embed the body directly. Then you can choose the appropriate layer for each asset and create it. It is important that for example only the shirt is on the layer "Shirt" and that there are no other assets on this layer. The renaming of the layers should not be done, because then they will not be taken into account. The same applies to new layers. Layers that do not contain anything will be ignored. The layers can be reordered.
 
 3. Save the vector graphic in `material/outfits/<name-of-your-choice>/original.svg` as SVG (Inkscape-SVG). **Make sure that the assets are in its layer.**
 4. Run the script `src/generate-outfits-json.py`.
+
 ```
 python src/generate-outfits-json.py
 ```
 
 5. Open the generated file `material/outfits/<name-of-your-choice>/meta.json` and edit the marked locations (`<...>`).
-Here an example of an generated `meta.json` file:
+   Here an example of an generated `meta.json` file:
+
 ```json
 [
     {
@@ -93,16 +96,28 @@ Here an example of an generated `meta.json` file:
     }
 ]
 ```
+
 Attributes for:
+
 - pants: "on-top"
 - shirts: "no-pants"
 
 6. Make a pull request.
 
 ## Updating an existing outfit
+
 If an outfit, i.e. the corresponding SVG file, has been changed, the following command must be executed:
+
 ```
 python update-outfits-json.py
 ```
 
 ## Adding new Achievement
+
+## LICENSE
+
+Copyright (c) 2021 Ole Umlauft, Johanna Danielzik and other contributors
+Creator of the SVG is Johanna Danielzik and contributers.
+
+All SVG files of this repository are provided under the CC-BY-4.0 License. See [LICENSE](https://github.com/SmartBeansGoe/smartbeans-content/blob/main/LICENSE_SVG) for the full text.
+All code files of this repository are provided under the MIT License. See [LICENSE](https://github.com/SmartBeansGoe/smartbeans-content/blob/main/LICENSE) for the full text.
