@@ -20,6 +20,9 @@ def deleteSVGEntry(loadedJSONItem):
 
 
 if __name__ == '__main__':
+    if not os.path.exists("out/assets/"):
+        os.makedirs("out/assets")
+
     output = []
     outfits = [name for name in os.listdir(
         PATH) if os.path.isdir(os.path.join(PATH, name))]
